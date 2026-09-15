@@ -1,5 +1,6 @@
 # About-Us
 Sejarah Kami: Bermula dari Sebuah Langkah Menuju Kemuliaan.
+
 Jaya Excelsior lahir pada masa perkuliahan di lingkungan akademis Universitas Pembangunan Jaya (UPJ) . Diinisiasi sebagai sebuah payung riset mandiri oleh mahasiswa Program Studi Informatika, nama ini diambil dari perpaduan nilai luhur almamater (Jaya) dan semangat Latin yang berarti "selalu melangkah lebih tinggi" (Excelsior). Bermula dari repositori pemrograman terstruktur, proyek-proyek kelas, dan dedikasi untuk memecahkan tantangan teknologi di masyarakat perkotaan (Urban Future Design). inisiatif ini secara konsisten berevolusi dari semester ke semester. Komitmen untuk menghadirkan kualitas rekayasa perangkat lunak yang tanpa kompromi berhasil mentransformasikan proyek akademis ini menjadi sebuah solusi digital yang bernilai industri.
 
 Visi Kami: 
